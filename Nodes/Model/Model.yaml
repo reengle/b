@@ -1,0 +1,7 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: b
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 2
